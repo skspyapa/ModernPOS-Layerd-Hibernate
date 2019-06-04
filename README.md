@@ -40,11 +40,11 @@ giving a fully functional point of sale system according to client requirement
 
 * JavaFx
 
-* JPA
+* Native Hibernate
 
 ## Technology Stack
 
-* JPA
+* Native Hibernate
 
 * JDBC
 
